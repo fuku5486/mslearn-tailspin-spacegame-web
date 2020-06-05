@@ -1,5 +1,6 @@
 
 [![Build Status](https://dev.azure.com/fukushima-takashi20908/Space%20Game-web-Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/fukushima-takashi20908/Space%20Game-web-Workflow/_build/latest?definitionId=4&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fuku5486_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=fuku5486_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
